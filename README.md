@@ -8,3 +8,5 @@ Before I start,I want to talk about the course that helped me master Data Analys
 You can find the <a href="https://drive.google.com/file/d/1NQSKNKjBUK0bENDnANlk7XcqZbX77Gs1/view?usp=sharing">Dataset</a> here.
 
 <h3> To run the code in Binder or Kaggle or Colab: https://jovian.ml/sayantan-world98/pokemon-data-analysis </h3>
+
+![Poke cover](https://github.com/Sayantan-world/Pokemon-Data-Analysis/blob/main/cover.jpg?raw=true)
